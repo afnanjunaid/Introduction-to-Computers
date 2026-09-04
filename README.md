@@ -37,3 +37,24 @@ Computers are broadly categorized based on their size, capability, and processin
 | Hosting Service | **GitHub** | Remote repository management & PR workflows |
 | Documentation | **Markdown** | Text formatting for `README.md` |
 
+---
+
+## 4. History of Computers
+
+The evolution of computing is categorized into five distinct generations:
+
+1. **First Generation (1940–1956):** Used *vacuum tubes* for circuitry and magnetic drums for memory.
+2. **Second Generation (1956–1963):** Replaced vacuum tubes with *transistors*.
+3. **Third Generation (1964–1971):** Integrated Circuits (ICs) were introduced.
+4. **Fourth Generation (1971–Present):** Microprocessors brought thousands of ICs onto a single chip.
+5. **Fifth Generation (Present & Beyond):** Based on *Artificial Intelligence* and parallel processing.
+
+---
+
+## 5. Project Workflow & Git Commands
+
+```bash
+git checkout -b feature-branch
+git add README.md
+git commit -m "docs: updated README structure"
+
