@@ -12,3 +12,16 @@ This repository contains documentation covering fundamental concepts of computer
 
 ## Introduction to Computers
 A **computer** is an electronic device that manipulates information or data. It has the ability to *store*, *retrieve*, and *process* data
+
+## Types of Computers
+1. **Supercomputers**: High-performance systems used for complex computations.
+2. **Mainframe Computers**: Large-scale servers used by enterprise organizations.
+3. **Minicomputers**: Mid-range multi-user systems.
+4. **Microcomputers (Personal Computers)**: Desktops and laptops designed for individual use.
+
+## History of Computers
+- [x] First Generation (Vacuum Tubes, 1940-1956)
+- [x] Second Generation (Transistors, 1956-1963)
+- [x] Third Generation (Integrated Circuits, 1964-1971)
+- [x] Fourth Generation (Microprocessors, 1971-Present)
+- [ ] Fifth Generation (Artificial Intelligence, Present & Beyond)
