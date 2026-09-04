@@ -25,3 +25,17 @@ A **computer** is an electronic device that manipulates information or data. It 
 - [x] Third Generation (Integrated Circuits, 1964-1971)
 - [x] Fourth Generation (Microprocessors, 1971-Present)
 - [ ] Fifth Generation (Artificial Intelligence, Present & Beyond)
+## Tools Used
+| Tool | Purpose |
+| :--- | :--- |
+| **Git** | Distributed Version Control System |
+| **GitHub** | Cloud Repository Hosting |
+| **VS Code** | Code & Markdown Editing |
+
+## Project Workflow
+To contribute to this project:
+```bash
+git checkout -b your-branch-name
+git add README.md
+git commit -m "Your commit message"
+git push origin your-branch-name
